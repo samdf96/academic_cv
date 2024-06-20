@@ -126,6 +126,8 @@ cv:
         location: University of Victoria
         start_date: 2023-01
         end_date: 2023-04
+        highlights: 
+          - 'Adapted colour-coded course material for astronomy students with colour-impaired vision.'
     student_advocacy:
       - company: Graduate Student Society
         position: Director of Finance
