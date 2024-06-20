@@ -12,26 +12,26 @@ cv:
   sections:
     academic_history:
       - institution: University of Victoria
-        area: Astrophysics
+        area: 'Astrophysics - Advisor: Helen Kirk (NRC-HAA)'
         degree: PhD
         start_date: 2024
         end_date: present
         highlights:
-          - 'Supervisor: Helen Kirk (NRC-HAA)'
+          - 'Unraveling the effects of non-axisymmetric accretion streamers on the development of early protostellar systems'
       - institution: University of Victoria
-        area: Astrophysics
+        area: 'Astrophysics - Advisor: Helen Kirk (NRC-HAA)'
         degree: MSc
         start_date: 2021
         end_date: 2023
         highlights:
-          - 'Supervisor: Helen Kirk (NRC-HAA)'
+          - 'Searching for Substructure and Fragmentation in Starless Cores using ALMA'
       - institution: University of Alberta
-        area: Physics and Astronomy
+        area: 'Physics and Astronomy - Advisor: Erik Rosolowsky'
         degree: BSc
         start_date: 2013
         end_date: 2018
         highlights:
-          - 'Supervisor: Erik Rosolowsky [499 Project Requirement]'
+          - 'Angular Momentum in Star Formation: A Study on Specific Angular Momentum Estimators using Clump-identified velocity gradients'
     employed_research_experience:
       - company: University of Alberta
         position: Research Assistant
