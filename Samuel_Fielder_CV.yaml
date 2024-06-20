@@ -7,8 +7,8 @@ cv:
   social_networks:
     - network: GitHub
       username: samdf96
-    - network: ORCID
-      username: 0009-0001-8625-505X
+    # - network: ORCID
+    #   username: 0009-0001-8625-505X
   sections:
     academic_history:
       - institution: University of Victoria
