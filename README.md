@@ -131,7 +131,7 @@ Picture this:
 
 - Jan. 2023 to Apr. 2023
 - University of Victoria
-- Created image descriptions for course materials for students with visual impairments.
+- Created image descriptions and alternative course materials for students with visual impairments.
 
 # Student Advocacy
 
@@ -140,7 +140,7 @@ Picture this:
 - 2023-2024, 2024-2025
 - University of Victoria
 - Appointed Committee Chair Roles: \\ - Graduate Student Society Appeals Committee (2023 - 2025) \\ - Graduate Student Society Finance Committee (2023 - 2025) \\ - Mandatory Temporary Medical Insurance Opt Out Appeals Committee (2023 - 2025)
-- University of Victoria Committee Appointments: \\ - Student Life Grant Committee (2024 - 2025) \\ - ***Appointment Committee for Director of the Astronomy Research Centre (2024)*** - Graduate Fee Reduction Appeals Committee (2023 - 2025) \\ - Senate Committee on Libraries (2023 - 2024) \\ - REACH Awards - Andy Farquarson Committee (2023)
+- University of Victoria Committee Appointments: \\ - Student Life Grant Committee (2024 - 2025) \\ - ***Appointment Committee for Director of the Astronomy Research Centre (2024)*** \\ - Graduate Fee Reduction Appeals Committee (2023 - 2025) \\ - Senate Committee on Libraries (2023 - 2024) \\ - REACH Awards - Andy Farquarson Committee (2023)
 
 ## Graduate Student Society, Graduate Student Representative for Physics and Astronomy
 
