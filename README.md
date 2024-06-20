@@ -32,20 +32,20 @@ Picture this:
 
 # Academic History
 
-## University of Victoria, PhD in Astrophysics
+## University of Victoria, PhD in Astrophysics - Advisor: Helen Kirk (NRC-HAA)
 
 - 2024 to present
-- Supervisor: Helen Kirk (NRC-HAA)
+- Unraveling the effects of non-axisymmetric accretion streamers on the development of early protostellar systems
 
-## University of Victoria, MSc in Astrophysics
+## University of Victoria, MSc in Astrophysics - Advisor: Helen Kirk (NRC-HAA)
 
 - 2021 to 2023
-- Supervisor: Helen Kirk (NRC-HAA)
+- Searching for Substructure and Fragmentation in Starless Cores using ALMA
 
-## University of Alberta, BSc in Physics and Astronomy
+## University of Alberta, BSc in Physics and Astronomy - Advisor: Erik Rosolowsky
 
 - 2013 to 2018
-- Supervisor: Erik Rosolowsky [499 Project Requirement]
+- Angular Momentum in Star Formation: A Study on Specific Angular Momentum Estimators using Clump-identified velocity gradients
 
 # Employed Research Experience
 
