@@ -1,3 +1,27 @@
+<!-- Remove below -->
+
+# RenderCV Pipeline
+
+Are you ready to revolutionize the way you manage and craft your CVs and resumes?
+
+Picture this:
+
+1.  You simply update your `John_Doe_CV.yaml` input file and push the changes.
+2.  Then, a pipeline generates a new PDF and Markdown from it and uploads it to the repository.
+3.  When you are done with your work, you can create a new release on GitHub, tagging your CV with something like `v2024-04`. The pipeline will automatically add the PDF and the YAML as assets to the release.
+4.  You have successfully created your CV pipeline, and all the history is in safe hands and reproducible.
+
+**How to start?**
+
+1.  [Click here](https://github.com/new?template_name=rendercv-pipeline&template_owner=sinaatalay) to create your CV repository based on this `rendercv-pipeline` template repository.
+2.  Edit `John_Doe_CV.yaml` file and push the changes. Then, see the magic happen.
+
+**Some tips**
+
+1.  Learn more about [RenderCV](https://github.com/sinaatalay/rendercv) to understand what you can do with this tool.
+2.  Edit and preview your CV in your browser without installing anything by creating a codespace. Click the <> **Code** button, then click the **Codespaces** tab, and then click **Create codespace on main**. The environment will be ready for RenderCV usage.
+
+<!-- Remove above -->
 # Samuel Fielder's CV
 
 - Phone: +1 780 237 0844
@@ -108,6 +132,7 @@
 
 - Jan. 2023 to Apr. 2023
 - University of Victoria
+- Adapted colour-coded course material for astronomy students with colour-impaired vision.
 
 # Student Advocacy
 
