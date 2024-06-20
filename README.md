@@ -1,96 +1,154 @@
-# John Doe's CV
+<!-- Remove below -->
 
-- Phone: +90 541 999 99 99
-- Email: [youremail@yourdomain.com](mailto:youremail@yourdomain.com)
-- Location: Your Location
-- Website: [yourwebsite.com](https://yourwebsite.com/)
-- LinkedIn: [yourusername](https://linkedin.com/in/yourusername)
-- GitHub: [yourusername](https://github.com/yourusername)
+# RenderCV Pipeline
+
+Are you ready to revolutionize the way you manage and craft your CVs and resumes?
+
+Picture this:
+
+1.  You simply update your `John_Doe_CV.yaml` input file and push the changes.
+2.  Then, a pipeline generates a new PDF and Markdown from it and uploads it to the repository.
+3.  When you are done with your work, you can create a new release on GitHub, tagging your CV with something like `v2024-04`. The pipeline will automatically add the PDF and the YAML as assets to the release.
+4.  You have successfully created your CV pipeline, and all the history is in safe hands and reproducible.
+
+**How to start?**
+
+1.  [Click here](https://github.com/new?template_name=rendercv-pipeline&template_owner=sinaatalay) to create your CV repository based on this `rendercv-pipeline` template repository.
+2.  Edit `John_Doe_CV.yaml` file and push the changes. Then, see the magic happen.
+
+**Some tips**
+
+1.  Learn more about [RenderCV](https://github.com/sinaatalay/rendercv) to understand what you can do with this tool.
+2.  Edit and preview your CV in your browser without installing anything by creating a codespace. Click the <> **Code** button, then click the **Codespaces** tab, and then click **Create codespace on main**. The environment will be ready for RenderCV usage.
+
+<!-- Remove above -->
+# Samuel Fielder's CV
+
+- Phone: +1 780 237 0844
+- Email: [samuelfielder@uvic.ca](mailto:samuelfielder@uvic.ca)
+- Location: University of Victoria, BC, Canada
+- GitHub: [samdf96](https://github.com/samdf96)
 
 
-# Welcome To Rendercv!
+# Academic History
 
-[RenderCV](https://github.com/sinaatalay/rendercv) is a LaTeX CV/resume framework. It allows you to create a high-quality CV as a PDF from a YAML file with **full Markdown syntax support** and **complete control over the LaTeX code**.
+## University of Victoria, PhD in Astrophysics
 
-A substantial part of the content is taken from [here](https://www.careercup.com/resume), where a *clean and tidy CV* pattern is proposed by **Gayle L. McDowell**.
+- 2024 to present
+- Supervisor: Helen Kirk (NRC-HAA)
 
-# Quick Guide
+## University of Victoria, MSc in Astrophysics
 
-- Each section title is arbitrary, and each section contains a list of entries.
-- There are seven different entry types: *BulletEntry*, *TextEntry*, *EducationEntry*, *ExperienceEntry*, *NormalEntry*, *PublicationEntry*, and *OneLineEntry*.
-- Select a section title, pick an entry type, and start writing your section!
-- [Here](https://docs.rendercv.com/user_guide/), you can find a comprehensive user guide.
-# Education
+- 2021 to 2023
+- Supervisor: Helen Kirk (NRC-HAA)
 
-## University of Pennsylvania, BS in Computer Science
+## University of Alberta, BSc in Physics and Astronomy
 
-- Sept. 2000 to May 2005
-- GPA: 3.9/4.0 ([Transcript](https://example.com))
-- **Coursework:** Software Foundations, Computer Architecture, Algorithms, Artificial Intelligence, Comparison of Learning Algorithms, Computational Theory.
+- 2013 to 2018
+- Supervisor: Erik Rosolowsky [499 Project Requirement]
 
-# Experience
+# Employed Research Experience
 
-## Apple Computer, Software Engineer, Intern
+## University of Alberta, Undergraduate Research Assistant
 
-- June 2004 to Aug. 2004
-- CA, USA
-- Reduced time to render the user's buddy list by 75% by implementing a prediction algorithm.
-- Implemented iChat integration with OS X Spotlight Search by creating a tool that extracts metadata from saved chat transcripts and provides metadata to a system-wide search database.
-- Redesigned chat file format and implemented backward compatibility for search.
+- May 2018 to Aug. 2018
+- Edmonton, AB
+- Computing angular momentum regions in gas cloud simulation space using dynamic clump finding algorithms
+- Exploring acrylic fluorescence in the DEAP-3600 project, by designing and conducting an experiment involving working with PMT signal data along with a Germanium detector signal.
 
-## Microsoft Corporation, Lead Student Ambassador
+## University of Alberta, Research Assistant
 
-- Sept. 2003 to Apr. 2005
-- WA, USA
-- Promoted to Lead Student Ambassador in the Fall of 2004, supervised 10 - 15 Student Ambassadors.
-- Created and taught a computer science course, CSE 099: Software Design and Development.
-
-## University of Pennsylvania, Head Teaching Assistant
-
-- Oct. 2001 to May 2005
-- PA, USA
-- Implemented a user interface for the VS open file switcher (ctrl-tab) and extended it to tool windows.
-- Created a service to provide gradient across VS and VS add-ins. Optimized service via caching.
-- Programmer Productivity Research Center (Summers 2001, 2002)
-- Built app to compute the similarity of all methods in a code base, reduced time from $\mathcal{O}(n^2)$ to $\mathcal{O}(n \log n)$. 
-- Created a test case generation tool that creates random XML docs from XML Schema.
-
-## Microsoft Corporation, Software Design Engineer, Intern
-
-- June 2003 to Aug. 2003
-- WA, USA
-- Promoted to Lead Student Ambassador in the Fall of 2004, supervised 10 - 15 Student Ambassadors.
+- Sept. 2019 to Dec. 2019
+- Edmonton, AB
+- Coordinate and design new experimental method to determine Henry's Law Constant in the case of general C$_{x}$F$_{xx}$ solvents with Radon as solute. Continuation of project into radon purification using new stripping column method, using previously mentioned work as foundation for design work.
 
 # Publications
 
-## Magneto-Thermal Thin Shell Approximation for 3D Finite Element Analysis of No-Insulation Coils ([10.1109/TASC.2023.3340648](https://doi.org/10.1109/TASC.2023.3340648))
-- Jan. 2004 - Albert Smith, ***John Doe***, Jane Derry, Harry Tom, Frodo Baggins
+## An ALMA Search for Substructure and Fragmentation in Starless Cores in Orion B North ([10.3847/1538-4357/ad3d56](https://doi.org/10.3847/1538-4357/ad3d56))
+- June 2024 - ***Samuel Fielder***, Helen Kirk, Michael Dunham, Stella Offner
+- The Astrophysical Journal 
+# Funding And Awards
 
-# Projects
+## \$1,660 CAD - Boehm-Hesser Graduate Research Excellence in Astronomy Award
 
-## Multi-User Drawing Tool
+- 2023
+- University of Victoria
 
-- 2004
-- Developed an electronic classroom where multiple users can view and simultaneously draw on a "chalkboard" with each person's edits synchronized.
-- Used C++ and MFC.
+## 2x \$1,500 CAD - University of Victoria Graduate Award
 
-## Synchronized Calendar
+- 2021, 2022
+- University of Victoria
 
-- 2003 to 2004
-- Developed a desktop calendar with globally shared and synchronized calendars, allowing users to schedule meetings with other users.
-- Used C#.NET, SQL, and XML.
+# Conference Talks
 
-## Operating System
+## Contributed Talk (withdrew): An ALMA View of Star Formation in Aquila, Canadian Astronomical Society Annual Meeting (CASCA)
 
-- 2002
-- Developed a UNIX-style OS with a scheduler, file system, text editor, and calculator.
-- Used C.
+- June 2024
+- Toronto, ON
 
-# Additional Experience And Awards
+## Contributed Talk: ALMA Observations of Starless Core Substructure, Canadian Astronomical Society Annual Meeting (CASCA)
 
-- Instructor (2003 - 2005): Taught two full-credit Computer Science courses.
-- Third Prize, Senior Design Projects: Awarded 3rd prize for a synchronized calendar project out of 100 projects.
-# Technologies
+- June 2023
+- Penticton, BC
 
-- Languages: C++, C, Java, Objective-C, C#.NET, SQL, JavaScript
-- Software: Visual Studio, Microsoft SQL Server, Eclipse, XCode, Interface Builder
+# Conference Posters
+
+## e-Poster: ALMA Observations of Starless Core Substructure ([10.5281/zenodo.10247182](https://doi.org/10.5281/zenodo.10247182)), ALMA at 10 Years - Past, Present, and Future
+
+- Dec. 2023
+- Peurto Varas, Chile
+
+# Public Outreach
+
+## The Complex World of Radio Astronomy - A Deep Dive on How Stars Form, Star Party Public Outreach Talk
+
+- May 2023
+- DAO, Victoria, BC
+
+## University of Victoria Site and Lead Manager, Royal Astronomical Society of Canada, International Astronomy Day 2023
+
+- Apr. 2023
+- University of Victoria
+
+## Friends of the DAO Volunteer, Telescope Operator and Outreach Educator
+
+- Sept. 2021 to present
+- DAO, Victoria, BC
+
+# Teaching Record
+
+## Department of Physics and Astronomy, Teaching Assistant
+
+- Sept. 2021 to present
+- University of Victoria
+- ***Computer Assisted Physics (Phys 248, 49 students)*** with Bob Kowalewski (Jan - Apr 2024) \\ Prepared and led 1.5hr tutorials; marked assignments and exams.
+- ***Exploring the Cosmos (Astro 102, 24 students)*** with Karun Tanjavur (Jan - Apr 2023) \\ Prepared and led 3hr demonstrations of astronomy lab experiments; marked lab reports.
+- ***Exploring the Cosmos (Astro 102, 28 students)*** with Karun Tanjavur (Sep - Dec 2022) \\ Prepared and led 3hr demonstrations of astronomy lab experiments; marked lab reports.
+- ***Computer Assisted Mathematics and Physics (Phys 248, 51 students)*** with Falk Herwig (Jan - Apr 2022) \\ Prepared and led 1.5hr tutorials; marked assignments and exams.
+- ***Concepts in Modern Astronomy (Astro 150, 20 students)*** with Karun Tanjavur (Jan - Apr 2022) \\ Prepared and led 3hr demonstrations of astronomy lab experiments; marked lab reports.
+- ***Exploring the Cosmos (Astro 102, 20 students)*** with Karun Tanjavur (Sep - Dec 2021) \\ Prepared and led 3hr demonstrations of astronomy lab experiments; marked lab reports.
+
+## Center for Accessible Learning, Image Description Specialist
+
+- Jan. 2023 to Apr. 2023
+- University of Victoria
+
+# Student Advocacy
+
+## Graduate Student Society, Director of Finance
+
+- 2023-2024, 2024-2025
+- University of Victoria
+- Appointed Committee Chair Roles: \\ - Graduate Student Society Appeals Committee (2023-2025) \\ - Graduate Student Society Finance Committee (2023-2025) \\ - Mandatory Temporary Medical Insurance Opt Out Appeals Committee (2023-2025)
+- University of Victoria Committee Appointments: \\ - Senate Committee on Libraries (2023-2024) \\ - Graduate Fee Reduction Appeals Committee (2023-2025) \\ - REACH Awards - Andy Farquarson Committee (2023) \\ - ***Appointment Committee for Director of the Astronomy Research Centre (2024)*** \\ - Student Life Grant Committee (2024-2025)
+
+## Graduate Student Society, Graduate Student Representative for Physics and Astronomy
+
+- 2022 to 2023
+- University of Victoria
+
+## Physics and Astronomy Graduate Student Association, Executive Board Member (GSS Councillor)
+
+- 2022 to 2023
+- University of Victoria
+
